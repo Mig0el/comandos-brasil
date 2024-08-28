@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<
+<head>
+    
+ 
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+   
+<title>Os Principais Comandos para Criar um Site</title>
+    <link rel="stylesheet" href="styles.css">
+
+<
+</head>
+<body>
+    <header>
+        
+       
+<h1>Os Principais Comandos para Criar um Site</h1>
+    
+    </header
+
+    </
+</header>
+    
+    
+<main>
+        
+      
+<section>
+            
+         
+
+  
+<h2>Comando HTML</h2>
+            
+            
+
+    
+<p>Os comandos básicos para criar uma estrutura de site em HTML são:</p>
+            
+       
+<pre><code>
+
+&l
+&lt;!DOCTYPE html&gt;
+&lt;html lang="pt-BR"&gt;
+  
+  
+&lt;head&gt;
+    
+    
+&lt;meta charset="UTF-8"&gt;
+    
+    
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    
+    
+&lt;title&gt;Título do Site&lt;/title&gt;
+  
+  &
+&lt;/head&gt;
+  
+  &
+&lt;body&gt;
+    
+    &lt
+&lt;h1&gt;Título Principal&lt;/h1&gt;
+    Conteúdo do site.
+  
+    Conteúdo do site.
+  &
+
+    Conteúdo do site
+
+    Conteúdo do
+
+    Conteú
+
+    C
+&lt;/body&gt;
+&lt;/html&gt;
+            
+            </code
+
+            <
+
+        
+
+    
+
+ 
+</code></pre>
+            
+         
+
+    
+<img src="exemplo-html.png" alt="Comando HTML">
+        
+        </section
+
+        </sec
+
+        
+
+   
+</section>
+        
+      
+
+  
+<section>
+            
+           
+
+      
+
+ 
+<h2>Comando CSS</h2>
+            
+            
+
+      
+<p>Para estilizar o site, você utiliza comandos CSS, como:</p>
+            
+           
+
+      
+<pre><code>
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New Roman', serif;
+    color: black;
+    font-size: 15px;
+}
+            
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New Roman', serif;
+    color: black;
+    font-size: 15px;
+}
+       
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New Roman', serif;
+    color: black;
+    font-size: 15px
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New Roman', serif;
+    color: black;
+    font
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New Roman', serif;
+    color: blac
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New Roman', serif;
+    
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New Roman', s
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Times New
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-family: 'Tim
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-fami
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+    f
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+p {
+ 
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-size: 2
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    font-s
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    color:
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+    c
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h2 {
+ 
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+h
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 30px
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font-size:
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+    font
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+  
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: 
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+   
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1
+
+body {
+    font-family: Arial, sans-serif
+
+body {
+    font-family: Arial, sans
+
+body {
+    font-family
+
+body {
+    font-f
+
+body {
+    f
+
+body {
+
+bo
+</code></pre>
+            
+       
+<img src="exemplo-css.png" alt="Comando CSS">
+            
+            <
+
+  
+<p>Ou você pode usar um link para uma folha de estilos externa, como:</p>
+            
+       
+<a href="https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2021/11/o-que-e-html.webp" rel="stylesheet">Link para exemplo de CSS</a>
+        
+        </s
+
+  
+</section>
+    
+  
+</main>
+</body>
+</html>
+
+``
